@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-angular-e5bbe": {
+      "hosting": {
+        "firechat": [
+          "firechat-angular-e5bbe"
+        ]
+      }
+    }
+  }
+}
